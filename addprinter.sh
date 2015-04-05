@@ -193,6 +193,7 @@ ext_order_optimize=0
 solid_loop_overlap_fraction=0.5" >> _printers.ini
 
 echo "
+[$1]
 quality_percentage=50
 
 layer_thickness_mm=0.25
