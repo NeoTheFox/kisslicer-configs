@@ -1,1 +1,6 @@
 KISSlicer
+*.g
+*.gco
+*.gcode
+*.stl
+*.STL
